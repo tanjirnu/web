@@ -33,7 +33,8 @@
     font-size: normal;
     font-weight: normal;
     font-display: block;
-    src: url('icon.woff2') format('wpff2'), url('icon.woff') format('woff');
+    src: url('icon.woff2') format('wpff2'),
+         url('icon.woff') format('woff');
     
 }
 
